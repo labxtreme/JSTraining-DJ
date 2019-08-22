@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\bin\Debug\netcoreapp2.1\Addition.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\bin\Debug\netcoreapp2.1\Addition.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\bin\Debug\netcoreapp2.1\Addition.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\bin\Debug\netcoreapp2.1\Addition.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\bin\Debug\netcoreapp2.1\Addition.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\obj\Debug\netcoreapp2.1\Addition.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\obj\Debug\netcoreapp2.1\Addition.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\obj\Debug\netcoreapp2.1\Addition.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\obj\Debug\netcoreapp2.1\Addition.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\obj\Debug\netcoreapp2.1\Addition.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 1\Addition\Addition\obj\Debug\netcoreapp2.1\Addition.pdb
