@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\obj\Debug\netcoreapp2.1\Get_text.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\obj\Debug\netcoreapp2.1\Get_text.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\obj\Debug\netcoreapp2.1\Get_text.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\obj\Debug\netcoreapp2.1\Get_text.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\bin\Debug\netcoreapp2.1\Get_text.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\bin\Debug\netcoreapp2.1\Get_text.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\bin\Debug\netcoreapp2.1\Get_text.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\bin\Debug\netcoreapp2.1\Get_text.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\bin\Debug\netcoreapp2.1\Get_text.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\obj\Debug\netcoreapp2.1\Get_text.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 2\Get_text\Get_text\obj\Debug\netcoreapp2.1\Get_text.pdb

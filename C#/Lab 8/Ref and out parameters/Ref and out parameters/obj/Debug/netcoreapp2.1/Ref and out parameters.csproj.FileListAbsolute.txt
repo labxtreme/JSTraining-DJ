@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\obj\Debug\netcoreapp2.1\Ref and out parameters.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\obj\Debug\netcoreapp2.1\Ref and out parameters.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\obj\Debug\netcoreapp2.1\Ref and out parameters.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\obj\Debug\netcoreapp2.1\Ref and out parameters.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\bin\Debug\netcoreapp2.1\Ref and out parameters.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\bin\Debug\netcoreapp2.1\Ref and out parameters.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\bin\Debug\netcoreapp2.1\Ref and out parameters.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\bin\Debug\netcoreapp2.1\Ref and out parameters.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\bin\Debug\netcoreapp2.1\Ref and out parameters.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\obj\Debug\netcoreapp2.1\Ref and out parameters.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 8\Ref and out parameters\Ref and out parameters\obj\Debug\netcoreapp2.1\Ref and out parameters.pdb

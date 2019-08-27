@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\bin\Debug\netcoreapp2.1\Structure_in_C_sharp.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\bin\Debug\netcoreapp2.1\Structure_in_C_sharp.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\bin\Debug\netcoreapp2.1\Structure_in_C_sharp.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\bin\Debug\netcoreapp2.1\Structure_in_C_sharp.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\bin\Debug\netcoreapp2.1\Structure_in_C_sharp.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\obj\Debug\netcoreapp2.1\Structure_in_C_sharp.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\obj\Debug\netcoreapp2.1\Structure_in_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\obj\Debug\netcoreapp2.1\Structure_in_C_sharp.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\obj\Debug\netcoreapp2.1\Structure_in_C_sharp.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\obj\Debug\netcoreapp2.1\Structure_in_C_sharp.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 5\Structure_in_C_sharp\Structure_in_C_sharp\obj\Debug\netcoreapp2.1\Structure_in_C_sharp.pdb

@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\bin\Debug\netcoreapp2.1\Class_2-C_sharp.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\bin\Debug\netcoreapp2.1\Class_2-C_sharp.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\bin\Debug\netcoreapp2.1\Class_2-C_sharp.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\bin\Debug\netcoreapp2.1\Class_2-C_sharp.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\bin\Debug\netcoreapp2.1\Class_2-C_sharp.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\obj\Debug\netcoreapp2.1\Class_2-C_sharp.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\obj\Debug\netcoreapp2.1\Class_2-C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\obj\Debug\netcoreapp2.1\Class_2-C_sharp.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\obj\Debug\netcoreapp2.1\Class_2-C_sharp.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\obj\Debug\netcoreapp2.1\Class_2-C_sharp.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Class_2-C_sharp\Class_2-C_sharp\obj\Debug\netcoreapp2.1\Class_2-C_sharp.pdb

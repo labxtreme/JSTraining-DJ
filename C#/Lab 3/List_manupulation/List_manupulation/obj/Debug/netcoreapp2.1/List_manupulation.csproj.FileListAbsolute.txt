@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\bin\Debug\netcoreapp2.1\List_manupulation.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\bin\Debug\netcoreapp2.1\List_manupulation.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\bin\Debug\netcoreapp2.1\List_manupulation.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\bin\Debug\netcoreapp2.1\List_manupulation.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\bin\Debug\netcoreapp2.1\List_manupulation.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\obj\Debug\netcoreapp2.1\List_manupulation.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\obj\Debug\netcoreapp2.1\List_manupulation.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\obj\Debug\netcoreapp2.1\List_manupulation.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\obj\Debug\netcoreapp2.1\List_manupulation.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\obj\Debug\netcoreapp2.1\List_manupulation.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 3\List_manupulation\List_manupulation\obj\Debug\netcoreapp2.1\List_manupulation.pdb

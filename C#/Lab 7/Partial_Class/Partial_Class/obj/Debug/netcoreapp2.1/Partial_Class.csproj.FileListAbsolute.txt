@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\bin\Debug\netcoreapp2.1\Partial_Class.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\bin\Debug\netcoreapp2.1\Partial_Class.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\bin\Debug\netcoreapp2.1\Partial_Class.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\bin\Debug\netcoreapp2.1\Partial_Class.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\bin\Debug\netcoreapp2.1\Partial_Class.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\obj\Debug\netcoreapp2.1\Partial_Class.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\obj\Debug\netcoreapp2.1\Partial_Class.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\obj\Debug\netcoreapp2.1\Partial_Class.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\obj\Debug\netcoreapp2.1\Partial_Class.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\obj\Debug\netcoreapp2.1\Partial_Class.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 7\Partial_Class\Partial_Class\obj\Debug\netcoreapp2.1\Partial_Class.pdb

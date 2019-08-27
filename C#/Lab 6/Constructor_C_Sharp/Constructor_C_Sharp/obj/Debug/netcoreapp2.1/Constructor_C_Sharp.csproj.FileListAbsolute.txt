@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\bin\Debug\netcoreapp2.1\Constructor_C_Sharp.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\bin\Debug\netcoreapp2.1\Constructor_C_Sharp.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\bin\Debug\netcoreapp2.1\Constructor_C_Sharp.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\bin\Debug\netcoreapp2.1\Constructor_C_Sharp.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\bin\Debug\netcoreapp2.1\Constructor_C_Sharp.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\obj\Debug\netcoreapp2.1\Constructor_C_Sharp.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\obj\Debug\netcoreapp2.1\Constructor_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\obj\Debug\netcoreapp2.1\Constructor_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\obj\Debug\netcoreapp2.1\Constructor_C_Sharp.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\obj\Debug\netcoreapp2.1\Constructor_C_Sharp.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 6\Constructor_C_Sharp\Constructor_C_Sharp\obj\Debug\netcoreapp2.1\Constructor_C_Sharp.pdb
