@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\obj\Debug\netcoreapp2.1\Covar_and_contravar.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\obj\Debug\netcoreapp2.1\Covar_and_contravar.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\obj\Debug\netcoreapp2.1\Covar_and_contravar.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\obj\Debug\netcoreapp2.1\Covar_and_contravar.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\bin\Debug\netcoreapp2.1\Covar_and_contravar.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\bin\Debug\netcoreapp2.1\Covar_and_contravar.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\bin\Debug\netcoreapp2.1\Covar_and_contravar.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\bin\Debug\netcoreapp2.1\Covar_and_contravar.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\bin\Debug\netcoreapp2.1\Covar_and_contravar.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\obj\Debug\netcoreapp2.1\Covar_and_contravar.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 10\Covar_and_contravar\Covar_and_contravar\obj\Debug\netcoreapp2.1\Covar_and_contravar.pdb

@@ -1,0 +1,12 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\bin\Debug\Linq2.exe.config
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\bin\Debug\Linq2.exe
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\bin\Debug\Linq2.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\bin\Debug\EntityFramework.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\bin\Debug\EntityFramework.xml
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\obj\Debug\Linq2.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\obj\Debug\Linq2.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\obj\Debug\Linq2.csproj.CopyComplete
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\obj\Debug\Linq2.exe
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 11\Linq2\Linq2\obj\Debug\Linq2.pdb

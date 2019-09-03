@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Customers](
+	[CustomerID] [int] IDENTITY(1,1) NOT NULL,
+	[Country] [varchar](50) NOT NULL,
+	[CustomerName] [varchar](50) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[CustomerID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]

@@ -1,0 +1,11 @@
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\bin\Debug\netcoreapp2.1\deligates.deps.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\bin\Debug\netcoreapp2.1\deligates.runtimeconfig.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\bin\Debug\netcoreapp2.1\deligates.runtimeconfig.dev.json
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\bin\Debug\netcoreapp2.1\deligates.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\bin\Debug\netcoreapp2.1\deligates.pdb
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\obj\Debug\netcoreapp2.1\deligates.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\obj\Debug\netcoreapp2.1\deligates.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\obj\Debug\netcoreapp2.1\deligates.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\obj\Debug\netcoreapp2.1\deligates.AssemblyInfo.cs
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\obj\Debug\netcoreapp2.1\deligates.dll
+C:\Users\laksh\Downloads\GitHub\DJ-Training-Lakshaya\C#\Lab 9\deligates\deligates\obj\Debug\netcoreapp2.1\deligates.pdb

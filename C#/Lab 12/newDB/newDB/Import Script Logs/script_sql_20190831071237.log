@@ -1,0 +1,13 @@
+8/31/2019 12:42:37 PM	This log contains information about the import operation of the script 'script.sql' into project 'newDB' on computer 'PC-XTREME' by user'laksh.
+8/31/2019 12:42:38 PM	Started importing file: C:\Users\laksh\Documents\script.sql 
+8/31/2019 12:42:38 PM	File name C:\Users\laksh\Documents\script.sql (size: 27018)
+8/31/2019 12:42:38 PM	Parsing import script
+8/31/2019 12:42:38 PM	Total number of batches in script: 107
+8/31/2019 12:42:38 PM	Total number of statements in script: 27
+8/31/2019 12:42:38 PM	The script was successfully imported into the project.
+8/31/2019 12:42:38 PM	Analyzing schema objects...
+8/31/2019 12:42:39 PM	Scanning project for duplicate elements
+8/31/2019 12:42:39 PM	Finished duplicate element processing
+8/31/2019 12:42:41 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+8/31/2019 12:42:41 PM	A summary of the import was saved to the following location: C:\Users\laksh\source\repos\newDB\newDB\Import Script Logs\script_sql_20190831071237.log
+8/31/2019 12:42:41 PM	Click Finish to continue...

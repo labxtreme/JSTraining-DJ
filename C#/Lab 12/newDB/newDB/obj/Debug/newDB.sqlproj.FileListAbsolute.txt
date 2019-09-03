@@ -1,0 +1,10 @@
+C:\Users\laksh\source\repos\newDB\newDB\bin\Debug\newDB.dacpac
+C:\Users\laksh\source\repos\newDB\newDB\bin\Debug\newDB.dll
+C:\Users\laksh\source\repos\newDB\newDB\bin\Debug\newDB.pdb
+C:\Users\laksh\source\repos\newDB\newDB\obj\Debug\newDB.sqlprojAssemblyReference.cache
+C:\Users\laksh\source\repos\newDB\newDB\obj\Debug\Model.xml
+C:\Users\laksh\source\repos\newDB\newDB\obj\Debug\refactor.xml
+C:\Users\laksh\source\repos\newDB\newDB\obj\Debug\postdeploy.sql
+C:\Users\laksh\source\repos\newDB\newDB\obj\Debug\predeploy.sql
+C:\Users\laksh\source\repos\newDB\newDB\obj\Debug\newDB.dll
+C:\Users\laksh\source\repos\newDB\newDB\obj\Debug\newDB.pdb

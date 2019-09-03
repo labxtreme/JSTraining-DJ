@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       [dbo].[vOrders].[IDX_V1] on [dbo].[vOrders]
+     Clustered indexes that will be created
+       [dbo].[vOrders].[IDX_V1] on [dbo].[vOrders]
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[Name] (View)
+       [dbo].[vOrders] (View)
+       [dbo].[spCTE] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[vOrders].[IDX_V1] (Index)
+     Create
+       [dbo].[vOrders].[IDX_V1] (Index)
